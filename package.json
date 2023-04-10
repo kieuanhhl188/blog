@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kieuanhhl188/nodejs-blog.git"
+    "url": "git+https://github.com/kieuanhhl188/blog.git"
   },
   "keywords": [
     "blog",
@@ -18,9 +18,9 @@
   "author": "AnhBTK",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kieuanhhl188/nodejs-blog/issues"
+    "url": "https://github.com/kieuanhhl188/blog/issues"
   },
-  "homepage": "https://github.com/kieuanhhl188/nodejs-blog#readme",
+  "homepage": "https://github.com/kieuanhhl188/blog#readme",
   "dependencies": {
     "express": "^4.18.2"
   },
